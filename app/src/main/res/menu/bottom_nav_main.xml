@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Division"
+        android:id="@+id/division"/>
+    <item android:title="Multiplication"
+        android:id="@+id/multiplication"/>
+    <item android:title="Square"
+        android:id="@+id/square"/>
+</menu>
